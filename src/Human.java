@@ -3,7 +3,7 @@ public class Human {
     int birthYear;
     String town;
     String jobTitle;
-//
+
     public Human(String name, int birthYear, String town, String jobTitle) {
         if (name == null || name.isEmpty() || name.isBlank()){
              this.name = " - Данные не указаны - "; }
