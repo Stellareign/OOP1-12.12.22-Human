@@ -8,6 +8,5 @@ public class Main {
         System.out.println(anja);
         System.out.println(katja);
         System.out.println(artjom);
-        // непонятки с гитом :(
     }
 }

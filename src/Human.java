@@ -1,5 +1,4 @@
 public class Human {
-    // не пушит
     String name;
     int birthYear;
     String town;
